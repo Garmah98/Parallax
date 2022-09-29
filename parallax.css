@@ -1,0 +1,50 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.firstPage {
+	background: url(img/coast-g29f3209d4_1920.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 600px;
+	margin: auto;
+}
+.secondPage {
+	background: url(img/meadow-g4b2ad3180_1920.jpg);
+	background-attachment: fixed;
+	width: 100%;
+	height: 600px;
+	margin: auto;
+}
+.thirdPage {
+	background: url(img/norway-g7c2035d1e_1920.jpg);
+	background-attachment: fixed;
+	width: 100%;
+	height: 600px;
+	margin: auto;
+}
+.fourthPage {
+	background: url(img/sea-ge5bf2c2ab_1920.jpg);
+	background-attachment: fixed;
+	width: 100%;
+	height: 600px;
+	margin: auto;
+}
+.fifthPage {
+	background: url(img/sea-gec4015c3b_1920.jpg);
+	background-attachment: fixed;
+	width: 100%;
+	height: 600px;
+	margin: auto;
+}
+p {
+	background-color: black;
+	color: rgba(255, 255, 255, 0.719);
+    width: 100%;
+	height: 25px;
+    margin: auto;
+    text-align: center;
+    position:relative;
+    padding: 10px;
+}
