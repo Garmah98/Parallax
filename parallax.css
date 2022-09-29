@@ -3,7 +3,7 @@ body {
 	padding: 0;
 }
 .firstPage {
-	background: url(img/coast-g29f3209d4_1920.jpg);
+	background: url(imgs/coast-g29f3209d4_1920.jpg);
 	background-size: 100% 100%;
 	background-attachment: fixed;
 	width: 100%;
@@ -11,28 +11,28 @@ body {
 	margin: auto;
 }
 .secondPage {
-	background: url(img/meadow-g4b2ad3180_1920.jpg);
+	background: url(imgs/meadow-g4b2ad3180_1920.jpg);
 	background-attachment: fixed;
 	width: 100%;
 	height: 600px;
 	margin: auto;
 }
 .thirdPage {
-	background: url(img/norway-g7c2035d1e_1920.jpg);
+	background: url(imgs/norway-g7c2035d1e_1920.jpg);
 	background-attachment: fixed;
 	width: 100%;
 	height: 600px;
 	margin: auto;
 }
 .fourthPage {
-	background: url(img/sea-ge5bf2c2ab_1920.jpg);
+	background: url(imgs/sea-ge5bf2c2ab_1920.jpg);
 	background-attachment: fixed;
 	width: 100%;
 	height: 600px;
 	margin: auto;
 }
 .fifthPage {
-	background: url(img/sea-gec4015c3b_1920.jpg);
+	background: url(imgs/sea-gec4015c3b_1920.jpg);
 	background-attachment: fixed;
 	width: 100%;
 	height: 600px;
